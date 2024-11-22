@@ -14,7 +14,7 @@ const fetchPlacesEpic = (action$) =>
     ofType(FETCH_PLACES),
     mergeMap(() =>
       ajax
-        .getJSON("https://mocki.io/v1/1e1d7977-fe7e-41ee-98f0-78f402ed12a1")
+        .getJSON("https://mocki.io/v1/91bf03cb-c45a-4441-b73d-54110edc2482")
         .pipe(
           map((response) => ({
             type: FETCH_PLACES_SUCCESS,

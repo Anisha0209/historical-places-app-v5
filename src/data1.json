@@ -91,82 +91,64 @@
       "image": "https://cdn-imgix.headout.com/media/images/4ce000ac05e2f77ea3d27ca99f189227-Alhambra%20Tickets%20%26%20Tours.jpg?fm=pjpg&auto=compress&w=1100&h=750&crop=faces&fit=min"
     },
     {
-    "id": 10,
-    "name": "The Forbidden City",
-    "location": "Beijing, China",
-    "time": "Spring (April to May) and Autumn (September to November)",
-    "duration": "Half a day",
-   "description":
-      "The Forbidden City's uniqueness lies in its vast scale, intricate design, and preservation of traditional Chinese architecture. With over 9,000 rooms, it showcases exquisite craftsmanship, vibrant color schemes, and symbolic elements that reflect Chinese cosmology and imperial power.",
-    "significant":
-      "Built during the Ming Dynasty in the 15th century, the Forbidden City served as the imperial palace for successive Chinese emperors for over 500 years.",
-    "image":
-      "https://cdn-imgix.headout.com/media/images/c4c838cd3bc53040b8e6581cbcce4f72-The%20Forbidden%20City%20Beijing.jpg?fm=pjpg&auto=compress&w=1100&h=750&crop=faces&fit=min",
-  },
-  {
-    "id": 11,
-    "name": "The Palace of Versailles",
-    "location": "Versailles, France",
-    "time": "Spring (April to June) and Autumn (September to November)",
-    "duration": "Half a day",
-   "description":
-      "The Palace of Versailles was the royal residence of French kings from the 17th to the 18th century. Built during the 17th century, it exemplifies grandeur and extravagance, featuring breathtaking architecture, meticulously landscaped gardens, and lavish interior decorations. The palace served as the seat of political power under King Louis XIV, known as the Sun King.",
-    "significant":
-      "One of the finest and best preserved examples of Baroque architecture.",
-    "image":
-      "https://cdn-imgix.headout.com/media/images/00a87210d0b9efdc10c1230b916c105f-269-paris-paris--palace-of-versailles-01.jpg?fm=pjpg&auto=compress&w=1100&h=750&crop=faces&fit=min",
-  },
-  {
-    "id": 12,
-    "name": "The Roman Forum",
-    "location": "Rome, Italy",
-    "time": "Spring (April to May) and Autumn (September to November)",
-    "duration": "3 Hours",
-   "description":
-      "The Roman Forum was the political and economic center of ancient Rome. The Forum features a collection of magnificent ruins, including temples, basilicas, and arches, which offer glimpses into the architectural and engineering skills of the Ancient Romans.",
-    "significant":
-      "The political and economic center of ancient Rome, with iconic structures including the Temple of Saturn, the Arch of Titus, and the Basilica of Maxentius.",
-    "image":
-      "https://cdn-imgix.headout.com/media/images/a5ac022697961c6a814da60964462bb3-21451-rome-colosseum--roman-forum-and-palatine-mountain-guided-tour---optional-arena-access-08.jpg?fm=pjpg&auto=compress&w=1100&h=750&crop=faces&fit=min",
-  },
-  {
-    "id": 13,
-    "name": "Hagia Sophia",
-    "location": " Istanbul, Turkey",
-    "time": "Spring (April to May) and Autumn (September to November)",
-    "duration": "Half a day",
-   "description":
-      "The Hagia Sophia is a former Byzantine church and Ottoman mosque that dates back to the 6th century. Originally built as a Byzantine cathedral in the 6th century, it later served as an imperial mosque and now stands as a museum. Having exchanged hands, the Hagia Sophia showcases a unique blend of Byzantine and Ottoman architectural styles, featuring its grand dome, intricate mosaics, and massive buttresses.",
-    "significant":
-      "A former Byzantine church and Ottoman mosque with exquisite architecture, mosaics, and frescoes, showcasing Turkey's rich cultural heritage.",
-    "image":
-      "https://cdn-imgix.headout.com/media/images/3564ee70723666aeeba049d68f0e7071-21306-istanbul-full-day-istanbul-old-city-tour-08.jpg?fm=pjpg&auto=compress&w=1100&h=750&crop=faces&fit=min",
-  },
-  {
-    "id": 14,
-    "name": "Tower of London",
-    "location": "London, England",
-    "time": "Spring (April to June) and Autumn (September to November)",
-    "duration": "Half a day",
-   "description":
-      "The Tower of London served as a residence for monarchs, safeguarded the Crown Jewels, and housed prisoners of high stature, including Anne Boleyn and Sir Walter Raleigh. The Tower of London is particularly renowned for the chilling tales of the executions that took place within its walls.",
-    "significant":
-      "The Tower of London is now a museum that now houses a lot of the medieval torture devices. A visit will give you an understanding of the punishments meted out in medieval England.",
-    "image":
-      "https://cdn-imgix.headout.com/media/images/da38e4fc9f622731b1ca4b62ab54e4a3-Tower%20of%20London%20white%20tower.jpg?fm=pjpg&auto=compress&w=1100&h=750&crop=faces&fit=min",
-  },
-  {
-    "id": 15,
-    "name": "The Pantheon",
-    "location": "Rome, Italy",
-    "time": "Spring (April to May) and Autumn (September to November)",
-    "duration": "2 hours",
-   "description":
-      "The Pantheon is an ancient Roman temple that dates back to AD 125 and is a testament to the engineering and architectural skills of the Roman Empire. The largest unreinforced concrete dome ever constructed, its innovative design incorporates a central oculus, allowing natural light to fill the interior, creating a breathtaking interplay of light and shadow. The Pantheon served as a temple dedicated to multiple Roman deities and later transformed into a Christian church, adding to its historical and religious significance.",
-    "significant":
-      "Its most distinctive feature is its massive dome, which remains the largest unreinforced concrete dome ever constructed.",
-    "image":
-      "https://cdn-imgix.headout.com/media/images/7108125a447cdbdbf9d1d5f9598d198c-Rome%20Pantheon.jpeg?fm=pjpg&auto=compress&w=1100&h=750&crop=faces&fit=min",
-  }
+      "id": 10,
+      "name": "The Forbidden City",
+      "location": "Beijing, China",
+      "time": "Spring (April to May) and Autumn (September to November)",
+      "duration": "Half a day",
+      "description": "The Forbidden City's uniqueness lies in its vast scale, intricate design, and preservation of traditional Chinese architecture. With over 9,000 rooms, it showcases exquisite craftsmanship, vibrant color schemes, and symbolic elements that reflect Chinese cosmology and imperial power.",
+      "significant": "Built during the Ming Dynasty in the 15th century, the Forbidden City served as the imperial palace for successive Chinese emperors for over 500 years.",
+      "image": "https://cdn-imgix.headout.com/media/images/c4c838cd3bc53040b8e6581cbcce4f72-The%20Forbidden%20City%20Beijing.jpg?fm=pjpg&auto=compress&w=1100&h=750&crop=faces&fit=min"
+    },
+    {
+      "id": 11,
+      "name": "The Palace of Versailles",
+      "location": "Versailles, France",
+      "time": "Spring (April to June) and Autumn (September to November)",
+      "duration": "Half a day",
+      "description": "The Palace of Versailles was the royal residence of French kings from the 17th to the 18th century. Built during the 17th century, it exemplifies grandeur and extravagance, featuring breathtaking architecture, meticulously landscaped gardens, and lavish interior decorations. The palace served as the seat of political power under King Louis XIV, known as the Sun King.",
+      "significant": "One of the finest and best preserved examples of Baroque architecture.",
+      "image": "https://cdn-imgix.headout.com/media/images/00a87210d0b9efdc10c1230b916c105f-269-paris-paris--palace-of-versailles-01.jpg?fm=pjpg&auto=compress&w=1100&h=750&crop=faces&fit=min"
+    },
+    {
+      "id": 12,
+      "name": "The Roman Forum",
+      "location": "Rome, Italy",
+      "time": "Spring (April to May) and Autumn (September to November)",
+      "duration": "3 Hours",
+      "description": "The Roman Forum was the political and economic center of ancient Rome. The Forum features a collection of magnificent ruins, including temples, basilicas, and arches, which offer glimpses into the architectural and engineering skills of the Ancient Romans.",
+      "significant": "The political and economic center of ancient Rome, with iconic structures including the Temple of Saturn, the Arch of Titus, and the Basilica of Maxentius.",
+      "image": "https://cdn-imgix.headout.com/media/images/a5ac022697961c6a814da60964462bb3-21451-rome-colosseum--roman-forum-and-palatine-mountain-guided-tour---optional-arena-access-08.jpg?fm=pjpg&auto=compress&w=1100&h=750&crop=faces&fit=min"
+    },
+    {
+      "id": 13,
+      "name": "Hagia Sophia",
+      "location": " Istanbul, Turkey",
+      "time": "Spring (April to May) and Autumn (September to November)",
+      "duration": "Half a day",
+      "description": "The Hagia Sophia is a former Byzantine church and Ottoman mosque that dates back to the 6th century. Originally built as a Byzantine cathedral in the 6th century, it later served as an imperial mosque and now stands as a museum. Having exchanged hands, the Hagia Sophia showcases a unique blend of Byzantine and Ottoman architectural styles, featuring its grand dome, intricate mosaics, and massive buttresses.",
+      "significant": "A former Byzantine church and Ottoman mosque with exquisite architecture, mosaics, and frescoes, showcasing Turkey's rich cultural heritage.",
+      "image": "https://cdn-imgix.headout.com/media/images/3564ee70723666aeeba049d68f0e7071-21306-istanbul-full-day-istanbul-old-city-tour-08.jpg?fm=pjpg&auto=compress&w=1100&h=750&crop=faces&fit=min"
+    },
+    {
+      "id": 14,
+      "name": "Tower of London",
+      "location": "London, England",
+      "time": "Spring (April to June) and Autumn (September to November)",
+      "duration": "Half a day",
+      "description": "The Tower of London served as a residence for monarchs, safeguarded the Crown Jewels, and housed prisoners of high stature, including Anne Boleyn and Sir Walter Raleigh. The Tower of London is particularly renowned for the chilling tales of the executions that took place within its walls.",
+      "significant": "The Tower of London is now a museum that now houses a lot of the medieval torture devices. A visit will give you an understanding of the punishments meted out in medieval England.",
+      "image": "https://cdn-imgix.headout.com/media/images/da38e4fc9f622731b1ca4b62ab54e4a3-Tower%20of%20London%20white%20tower.jpg?fm=pjpg&auto=compress&w=1100&h=750&crop=faces&fit=min"
+    },
+    {
+      "id": 15,
+      "name": "The Pantheon",
+      "location": "Rome, Italy",
+      "time": "Spring (April to May) and Autumn (September to November)",
+      "duration": "2 hours",
+      "description": "The Pantheon is an ancient Roman temple that dates back to AD 125 and is a testament to the engineering and architectural skills of the Roman Empire. The largest unreinforced concrete dome ever constructed, its innovative design incorporates a central oculus, allowing natural light to fill the interior, creating a breathtaking interplay of light and shadow. The Pantheon served as a temple dedicated to multiple Roman deities and later transformed into a Christian church, adding to its historical and religious significance.",
+      "significant": "Its most distinctive feature is its massive dome, which remains the largest unreinforced concrete dome ever constructed.",
+      "image": "https://cdn-imgix.headout.com/media/images/7108125a447cdbdbf9d1d5f9598d198c-Rome%20Pantheon.jpeg?fm=pjpg&auto=compress&w=1100&h=750&crop=faces&fit=min"
+    }
   ]
 }
