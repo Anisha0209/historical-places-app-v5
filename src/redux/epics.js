@@ -31,7 +31,7 @@
 
 // export default rootEpic;
 
-//using axios
+//using Axios
 
 import { combineEpics } from "redux-observable";
 import {
